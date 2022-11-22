@@ -31,7 +31,7 @@
 	    <div>
                 <a href="index.php">Regresar al INICIO</a>		
             </div>
-          </article>";
+          </article>;
     ?>
 </body>
 </html>
