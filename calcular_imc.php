@@ -25,11 +25,11 @@
                 <p>Su estatura es de ".$estatura," metros</p>		
                 <p>Su peso es de ".$peso," kilos</p>		
                 <p>IMC = ",$peso,"/",$estatura,"² = ",$imc,"</p>		
-                <p>Su diagnostico es: ", DiagnosticoIMC($imc)"</p>		
+                <p>Su diagnostico es: ", DiagnosticoIMC($imc),"</p>		
 		
             </div>
 	    <div>
-                <a href="index.php">Regresar al INICIO</a>		
+                <a href='index.php'">Regresar al INICIO</a>		
             </div>
           </article>";
     ?>
