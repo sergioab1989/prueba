@@ -53,11 +53,17 @@ input[type=submit]:active {
     background-color: gray;
 }
 a {
-color: white
+color: white;  
 }
-a:hover {
-    background-color: lightgreen;
+a:link {
+color: white;
+}
+a:visited {
+color: white;
 }
 a:active {
-    background-color: gray;
+color: green;
+}
+a:hover {
+color: yellow;
 }
