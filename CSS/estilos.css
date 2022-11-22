@@ -55,3 +55,9 @@ input[type=submit]:active {
 a {
 color: white
 }
+a:hover {
+    background-color: lightgreen;
+}
+a:active {
+    background-color: gray;
+}
