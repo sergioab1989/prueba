@@ -28,6 +28,11 @@
                 <p>Su diagnostico es: ", DiagnosticoIMC($imc),"</p>		
 		
             </div>
+	    
+            <div>
+            	<a href='index.php'>Volver al Inicio</a>    
+            </div>
+	    
           </article>";
     ?>
 </body>
