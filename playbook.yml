@@ -1,0 +1,11 @@
+---
+- name: Playbook 
+  hosts: localhost
+  vars_files:
+    - credentials.yaml
+
+  tasks:
+
+    - name: prueba variable
+      debug:
+        msg: "{{ variable_prueba }}"
